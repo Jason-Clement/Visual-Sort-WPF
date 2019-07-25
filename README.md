@@ -1,8 +1,10 @@
 # VisualSortWPF
 
-This was my first foray into WPF about 7-8 years ago.
+This was my first foray into WPF in about 2009ish.
 
 I plan to bring this into the newest version. Sometime. Maybe. ¯\\_(ツ)_/¯
+
+I actually made three different versions, one using WPF, one using Windows Forms, and one using MFC. The MFC version was also was my first (and only as of 2019) foray into building something with C++.
 
 It visualizes various sorting algorithms and will also play a sound scaled to the bar being sorted.
 
