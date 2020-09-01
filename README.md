@@ -1,6 +1,6 @@
 # VisualSortWPF
 
-This was my first foray into WPF in about 2009ish.
+This was my first foray into WPF in about 2009ish. It's bad. It's really bad. Like embarrassingly bad. I think I'll leave it up anyway.
 
 I plan to bring this into the newest version. Sometime. Maybe. I'd rather make this a webapp to be honest or perhaps build it in Unity or some other platform that allows more advanced animations.
 
